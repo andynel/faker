@@ -1,7 +1,6 @@
 {
   "contacts": [
     {
-    "id": 67,
     "company": "",
     "department": "",
     "emailAddresses": [{"id": 91, "label": "", "email": "Sincere@april.biz"}],
@@ -21,7 +20,6 @@
     "urlAddresses": []
   },
   {
-    "id": 88,
     "company": "",
     "department": "",
     "name": "Leanne ",
